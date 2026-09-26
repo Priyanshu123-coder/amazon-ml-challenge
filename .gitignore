@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and submissions
+data/
+*.tsv
+*.csv
+*.parquet
+models/
+*.pkl
+*.model
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
